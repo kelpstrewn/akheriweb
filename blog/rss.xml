@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Akheritage Blog</title>
+        <link> https://akheritage.site/blog</link>
+        <description>Akheritage Blog</description>
+        <lastBuildDate>Sat, 01 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Comments]]></title>
+            <link> https://akheritage.site/blog/2023/06/31/b1/comments</link>
+            <guid> https://akheritage.site/blog/2023/06/31/b1/comments</guid>
+            <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[If you  would like to comment or contribute click to the left for the comments widget.]]></description>
+            <content:encoded><![CDATA[<p>If you  would like to comment or contribute click to the left for the comments widget.</p><p>Please create a free github login if you don't already have one. No credit card details are required. Once that is done logging in and commenting is easy.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

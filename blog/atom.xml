@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id> https://akheritage.site/blog</id>
+    <title>Akheritage Blog</title>
+    <updated>2023-07-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href=" https://akheritage.site/blog"/>
+    <subtitle>Akheritage Blog</subtitle>
+    <icon> https://akheritage.site/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Comments]]></title>
+        <id> https://akheritage.site/blog/2023/06/31/b1/comments</id>
+        <link href=" https://akheritage.site/blog/2023/06/31/b1/comments"/>
+        <updated>2023-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you  would like to comment or contribute click to the left for the comments widget.]]></summary>
+        <content type="html"><![CDATA[<p>If you  would like to comment or contribute click to the left for the comments widget.</p><p>Please create a free github login if you don't already have one. No credit card details are required. Once that is done logging in and commenting is easy.</p>]]></content>
+        <author>
+            <name>Stephen Curham</name>
+        </author>
+    </entry>
+</feed>
